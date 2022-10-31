@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="CalForm">
+  <grid id="27dc6" binding="contentPane" layout-manager="GridLayoutManager" row-count="7" column-count="6" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+    <margin top="0" left="0" bottom="0" right="0"/>
+    <constraints>
+      <xy x="20" y="20" width="500" height="800"/>
+    </constraints>
+    <properties>
+      <font name="Arial Special G2" size="22" style="1"/>
+      <minimumSize width="450" height="500"/>
+      <preferredSize width="300" height="500"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <component id="b3b41" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+        <constraints>
+          <grid row="0" column="1" row-span="1" col-span="4" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="150" height="100"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Adobe Gothic Std B" size="26" style="0"/>
+        </properties>
+      </component>
+      <component id="50b09" class="javax.swing.JButton" binding="button6" default-binding="true">
+        <constraints>
+          <grid row="2" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="9"/>
+          <text value="9"/>
+        </properties>
+      </component>
+      <component id="c072a" class="javax.swing.JButton" binding="button7" default-binding="true">
+        <constraints>
+          <grid row="2" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="8"/>
+          <text value="8"/>
+        </properties>
+      </component>
+      <component id="73e6" class="javax.swing.JButton" binding="button8" default-binding="true">
+        <constraints>
+          <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="7"/>
+          <text value="7"/>
+        </properties>
+      </component>
+      <component id="f656d" class="javax.swing.JButton" binding="button10" default-binding="true">
+        <constraints>
+          <grid row="3" column="3" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="6"/>
+          <text value="6"/>
+        </properties>
+      </component>
+      <component id="af609" class="javax.swing.JButton" binding="button11" default-binding="true">
+        <constraints>
+          <grid row="3" column="2" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="5"/>
+          <text value="5"/>
+        </properties>
+      </component>
+      <component id="66065" class="javax.swing.JButton" binding="button12" default-binding="true">
+        <constraints>
+          <grid row="3" column="1" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="4"/>
+          <text value="4"/>
+        </properties>
+      </component>
+      <component id="96301" class="javax.swing.JButton" binding="button14" default-binding="true">
+        <constraints>
+          <grid row="5" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="3"/>
+          <text value="3"/>
+        </properties>
+      </component>
+      <component id="42baf" class="javax.swing.JButton" binding="button15" default-binding="true">
+        <constraints>
+          <grid row="5" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="2"/>
+          <text value="2"/>
+        </properties>
+      </component>
+      <component id="5f0dd" class="javax.swing.JButton" binding="button16" default-binding="true">
+        <constraints>
+          <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Special G2" size="22" style="1"/>
+          <label value="1"/>
+          <text value="1"/>
+        </properties>
+      </component>
+      <hspacer id="6b699">
+        <constraints>
+          <grid row="1" column="5" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="10" height="10"/>
+          </grid>
+        </constraints>
+      </hspacer>
+      <hspacer id="24a93">
+        <constraints>
+          <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="1" hsize-policy="6" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="10" height="10"/>
+          </grid>
+        </constraints>
+      </hspacer>
+      <component id="7ae14" class="javax.swing.JButton" binding="button4" default-binding="true">
+        <constraints>
+          <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <focusCycleRoot value="true"/>
+          <font name="Adobe Caslon Pro" size="22" style="1"/>
+          <label value="C"/>
+          <text value="C"/>
+        </properties>
+      </component>
+      <component id="720c0" class="javax.swing.JButton" binding="button17" default-binding="true">
+        <constraints>
+          <grid row="6" column="3" row-span="1" col-span="2" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="KaputaUnicode" size="22" style="1"/>
+          <label value="="/>
+          <text value="="/>
+        </properties>
+      </component>
+      <component id="2c5ec" class="javax.swing.JButton" binding="button13" default-binding="true">
+        <constraints>
+          <grid row="3" column="4" row-span="2" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Adobe Caslon Pro" size="22" style="1"/>
+          <label value="+"/>
+          <text value="+"/>
+        </properties>
+      </component>
+      <component id="50027" class="javax.swing.JButton" binding="button9" default-binding="true">
+        <constraints>
+          <grid row="2" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Adobe Caslon Pro" size="22" style="1"/>
+          <label value="-"/>
+          <text value="-"/>
+        </properties>
+      </component>
+      <component id="3b207" class="javax.swing.JButton" binding="button5" default-binding="true">
+        <constraints>
+          <grid row="1" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Adobe Caslon Pro" size="22" style="1"/>
+          <label value="x"/>
+          <text value="x"/>
+        </properties>
+      </component>
+      <component id="dd75" class="javax.swing.JButton" binding="button3" default-binding="true">
+        <constraints>
+          <grid row="1" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Adobe Caslon Pro" size="22" style="1"/>
+          <label value="÷"/>
+          <text value="÷"/>
+        </properties>
+      </component>
+      <component id="940f5" class="javax.swing.JButton" binding="button19" default-binding="true">
+        <constraints>
+          <grid row="1" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Adobe Caslon Pro" size="22" style="1"/>
+          <label value="B"/>
+          <text value="B"/>
+        </properties>
+      </component>
+      <component id="e123b" class="javax.swing.JButton" binding="button18" default-binding="true">
+        <constraints>
+          <grid row="6" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Adobe Caslon Pro" size="22" style="1"/>
+          <text value="."/>
+        </properties>
+      </component>
+      <component id="8c50f" class="javax.swing.JButton" binding="button1" default-binding="true">
+        <constraints>
+          <grid row="5" column="4" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Adobe Caslon Pro" size="22" style="1"/>
+          <label value="+/-"/>
+          <text value="+/-"/>
+        </properties>
+      </component>
+      <component id="61046" class="javax.swing.JButton" binding="button2" default-binding="true">
+        <constraints>
+          <grid row="6" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false">
+            <preferred-size width="60" height="60"/>
+          </grid>
+        </constraints>
+        <properties>
+          <font name="Arial Rounded MT Bold" size="22" style="1"/>
+          <label value="0"/>
+          <text value="0"/>
+        </properties>
+      </component>
+    </children>
+  </grid>
+</form>
